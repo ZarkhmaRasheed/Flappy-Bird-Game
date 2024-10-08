@@ -1,1 +1,2 @@
 # Flappy-Bird-Game
+I have developed a Flappy Bird game using **Assembly language**, demonstrating mastery over low-level programming and hardware interaction. The game features smooth controls, obstacle generation, and dynamic scoring—all optimized for performance. Proud to showcase my skills in building efficient, resource-conscious applications from the ground up! #GameDev #AssemblyLanguage #ProblemSolving
